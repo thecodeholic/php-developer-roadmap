@@ -3,13 +3,15 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 ### How Internet works
 
-### HTTP Protocol, Browser/Server request flow
+### Browser/Server request flow, HTTP Protocol, Status codes
 
 ### Editors/IDEs
 
 ### Basics of HTML/CSS
 
 ### Build projects using HTML/CSS
+
+### Version Control System (Git & Github)
 
 ### Getting Familiar with PHP
 
