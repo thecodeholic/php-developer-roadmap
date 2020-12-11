@@ -15,9 +15,25 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 ### Getting Familiar with PHP
 
+#### Syntax
+
+#### Functions
+
+#### Dates
+
+#### JSON
+
+#### File System
+
+#### CURL
+
 ### Build Projects
 
 ### Object Oriented Programming
+
+### Build Projects
+
+### Working with Databases
 
 ### Build Projects
 
