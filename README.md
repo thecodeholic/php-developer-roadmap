@@ -12,6 +12,15 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Wikipedia Status Codes          | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
 ### Editors/IDEs
+| Resource Name                              | Resource                                     |
+|--------------------------------------------|----------------------------------------------|
+| Visual Studio Code Tutorial for Beginners  | https://youtu.be/VqCgcpAypFQ                 |
+| Visual Studio Code Crash Course            | https://youtu.be/WPqXP_kLzpo                 |
+| Top 12 VScode Extensions for PHP           | https://youtu.be/v9dWFbiir9Q                 |
+| Introduction to PHPStorm                   | https://youtu.be/pP9jw3fgrCU                 |
+| VS Code SuperHero course                   | https://vscodehero.com/                      |
+| PHPStorm vs VSCode for PHP Development     | https://youtu.be/O9nIE-40uKk                 |
+
 
 ### Basics of HTML/CSS
 
