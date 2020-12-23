@@ -31,9 +31,11 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
 
 
-### Build projects using HTML/CSS
-
 ### Version Control System (Git & Github)
+| Resource Name                                 |Duration| Resource                                     |
+|-----------------------------------------------|--------|----------------------------------------------|
+| Git & Github Tutorial for Absolute Beginners  | 46m    | https://youtu.be/iCKAWxfVWUY                 |
+| Git & GitHub Crash Course For Beginners       | 32m    | https://youtu.be/SWYqp7iY_Tc                 |
 
 ### Getting Familiar with PHP
 
