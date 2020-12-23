@@ -3,7 +3,13 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 ### How Internet works
 
+
 ### Browser/Server request flow, HTTP Protocol, Status codes
+| Resource Name                   | Resource                                                |
+|---------------------------------|---------------------------------------------------------|
+| HTTP Crash Course & Exploration | https://youtu.be/iYM2zFP3Zn0                            |
+| MDN HTTP Tutorial               | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
+| Wikipedia Status Codes          | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
 ### Editors/IDEs
 
