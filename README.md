@@ -37,21 +37,21 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Git & Github Tutorial for Absolute Beginners  | 46m    | https://youtu.be/iCKAWxfVWUY                 |
 | Git & GitHub Crash Course For Beginners       | 32m    | https://youtu.be/SWYqp7iY_Tc                 |
 
-### Getting Familiar with PHP
+### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
+| Resource Name                                          |Duration| Resource                                     |
+|--------------------------------------------------------|--------|----------------------------------------------|
+| PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                 |
 
-#### Syntax
+### PHP beginner projects
+| Resource Name                                          |Duration| Resource                                     |
+|--------------------------------------------------------|--------|----------------------------------------------|
+| Simple CRUD application with PHP and JSON              | 1h 35m | https://youtu.be/DWHZSkn5paQ                 |
+| Todo app with PHP                                      | 30m    | https://youtu.be/NxeNqHdJFxs                 |
+| PHP Watch files and directories recursively            | 8m     | https://youtu.be/5f4PjQJI-Fc                 |
+| Bulk image resize with PHP                             | 8m     | https://youtu.be/Z99lYtn3quk                 |
+| PHP registration form & validation                     | 30m    | https://youtu.be/V5sJ76T3mWg                 |
+| Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 
-#### Functions
-
-#### Dates
-
-#### JSON
-
-#### File System
-
-#### CURL
-
-### Build Projects
 
 ### Object Oriented Programming
 
