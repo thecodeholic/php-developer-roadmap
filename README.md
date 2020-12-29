@@ -54,14 +54,17 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 
 ### Object Oriented PHP
-https://www.youtube.com/watch?v=JmDHHhxfe1w&list=PLLQuc_7jk__VDhXWi544iK-SgljlGGlrX
+| Channel          | Resource                                                                            |
+| -----------------|-------------------------------------------------------------------------------------|
+| TheCodeholic     | https://www.youtube.com/watch?v=JmDHHhxfe1w&list=PLLQuc_7jk__VDhXWi544iK-SgljlGGlrX |
+| Dani Krossing    | https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh |
+| The Net Ninja    | https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy |
 
 ### Build Projects
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
 | Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
 | Build Shopping Cart with OOP                           | 37m    | https://youtu.be/1Ip7_hdSqzY                 |
-
 
 ### Working with Databases
 | Resource Name                                          |Duration| Resource                                     |
