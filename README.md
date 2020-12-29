@@ -54,11 +54,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 
 ### Object Oriented PHP
-| Channel          | Resource                                                                            |
-| -----------------|-------------------------------------------------------------------------------------|
-| TheCodeholic     | https://www.youtube.com/watch?v=JmDHHhxfe1w&list=PLLQuc_7jk__VDhXWi544iK-SgljlGGlrX |
-| Dani Krossing    | https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh |
-| The Net Ninja    | https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy |
+| Channel               | Resource Name                            | Resource                                                                            |
+| ----------------------|------------------------------------------|-------------------------------------------------------------------------------------|
+| Programming with Mosh | Object-oriented Programming in 7 minutes | https://youtu.be/pTB0EiLXUC8                                                        |
+| TheCodeholic          | Object Oriented PHP For beginners        | https://www.youtube.com/watch?v=JmDHHhxfe1w&list=PLLQuc_7jk__VDhXWi544iK-SgljlGGlrX |
+| Dani Krossing         | Object Oriented PHP Tutorials            | https://www.youtube.com/watch?v=Anz0ArcQ5kI&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh |
+| The Net Ninja         | Object Oriented PHP Tutorial             | https://www.youtube.com/watch?v=LuWxwLk8StM&list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy |
 
 ### Build Projects
 | Resource Name                                          |Duration| Resource                                     |
