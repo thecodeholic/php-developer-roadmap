@@ -64,6 +64,10 @@ https://www.youtube.com/watch?v=JmDHHhxfe1w&list=PLLQuc_7jk__VDhXWi544iK-SgljlGG
 
 
 ### Working with Databases
+| Resource Name                                          |Duration| Resource                                     |
+|--------------------------------------------------------|--------|----------------------------------------------|
+| MySQL Tutorial for Beginners [Full Course]             | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
+| SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
 
 ### Build Projects
 
