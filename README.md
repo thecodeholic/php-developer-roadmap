@@ -50,7 +50,6 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | PHP Watch files and directories recursively            | 8m     | https://youtu.be/5f4PjQJI-Fc                 |
 | Bulk image resize with PHP                             | 8m     | https://youtu.be/Z99lYtn3quk                 |
 | PHP registration form & validation                     | 30m    | https://youtu.be/V5sJ76T3mWg                 |
-| Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 
 
 ### Object Oriented PHP
@@ -72,10 +71,18 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 |--------------------------------------------------------|--------|----------------------------------------------|
 | MySQL Tutorial for Beginners [Full Course]             | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
 | SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
+| PHP MySql Tutorial                                     | article| https://www.mysqltutorial.org/php-mysql/     |
+| PHP MySql Tutorial                                     | article| https://www.w3schools.com/php/php_mysql_intro.asp |
 
 ### Build Projects
+| Resource Name                                          |Duration| Resource                                     |
+|--------------------------------------------------------|--------|----------------------------------------------|
+| Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 
 ### Build custom MVC Framework
+| Resource Name                                          |Duration| Resource                                                                            |
+|--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
+| Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
 
 ### Learn Javascript
 
