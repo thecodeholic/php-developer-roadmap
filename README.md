@@ -1,6 +1,27 @@
 # PHP Developer roadmap
 This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer
 
+## Table of Contents
+
+1. **[How Internet works](https://github.com/thecodeholic/php-developer-roadmap#how-internet-works)**<br>
+1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
+1. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
+1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
+1. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
+1. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+1. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+1. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+1. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
+1. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
+1. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
+1. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
+1. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+1. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#start-exploring-existing-frameworks)**
+1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
+
+------
+
 ### How Internet works
 
 
