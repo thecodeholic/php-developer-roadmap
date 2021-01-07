@@ -106,7 +106,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
 
 ### Learn Javascript
+| Resource Name                                          |Duration| Resource                     |
+|--------------------------------------------------------|--------|------------------------------|
+| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
+| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
 
-### Start Exploring Existing Frameworks.
+### PHP Frameworks.
 
-### Build Projects with existing frameworks.
+
+### Build Projects with frameworks.
