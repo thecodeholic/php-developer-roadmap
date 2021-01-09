@@ -121,3 +121,10 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 
 ### Build Projects with frameworks.
+
+#### Yii2 Framework
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Yii2 E-commerce website - Full Working Process             | 4h 25m | https://youtu.be/eQdDBhQpU9o |
+| Build a REST API using Yii2 PHP Framework                  | 1h 25m | https://youtu.be/XyHHMvRt6Cw |
+| Yii2 Framework course                                      |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
