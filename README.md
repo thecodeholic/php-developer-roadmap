@@ -112,7 +112,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
 | Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
 
-### PHP Frameworks.
+### PHP Frameworks
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Laravel PHP Framework Tutorial - Full Course for Beginners | 4h 25m | https://youtu.be/ImtZ5yENzgE |
+| Yii2 PHP Framework - Full Course (Build a YouTube Clone)   | 7h 04m | https://youtu.be/whuIf33v2Ug |
+| Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
 
 
 ### Build Projects with frameworks.
