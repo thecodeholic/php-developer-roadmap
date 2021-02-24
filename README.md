@@ -3,7 +3,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 ## Table of Contents
 
-1. **[How Internet works](https://github.com/thecodeholic/php-developer-roadmap#how-internet-works)**<br>
+1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
