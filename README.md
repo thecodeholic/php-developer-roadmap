@@ -22,8 +22,11 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 ------
 
-### How Internet works
-
+### How Internet & Websites works
+| Resource Name                         |Duration| Resource                                                |
+|---------------------------------------|--------|---------------------------------------------------------|
+| How does the INTERNET work?           | 9m     | https://youtu.be/x3c1ih2NJEg                            |
+| How The Web Works - The Big Picture   | 12m    | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
 | Resource Name                   |Duration| Resource                                                |
