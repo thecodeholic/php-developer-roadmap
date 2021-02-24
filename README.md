@@ -18,7 +18,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
 1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
 1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-
+1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)
 ------
 
 ### How Internet & Websites works
@@ -136,4 +136,10 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 |------------------------------------------------------------|--------|------------------------------|
 | Laravel E-Commerce                                         | 16h 30m| https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR |
 | Laravel Movie App                                          | 1h 25m | https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4 |
+
+
+### Get Familiar with Terminal
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Beginner's Guide To The Linux Terminal                     | 42m    | https://youtu.be/s3ii48qYBxA |
 
