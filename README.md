@@ -15,10 +15,9 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
 1. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
 1. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-1. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
 1. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#start-exploring-existing-frameworks)**
-1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
+1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
+1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
 
 ------
 
@@ -123,7 +122,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
 
 
-### Build Projects with frameworks.
+### Build Projects with frameworks
 
 #### Yii2 Framework
 | Resource Name                                              |Duration| Resource                     |
