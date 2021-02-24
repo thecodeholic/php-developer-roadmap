@@ -19,6 +19,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
 1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
 1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+1. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
 ------
 
 ### How Internet & Websites works
@@ -142,4 +143,10 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
 | Beginner's Guide To The Linux Terminal                     | 42m    | https://youtu.be/s3ii48qYBxA |
+
+### Docker
+| Resource Name                                                                                  |Duration| Resource                     |
+|------------------------------------------------------------------------------------------------|--------|------------------------------|
+| Docker Tutorial for Beginners                                                                  | 2h 46m | https://youtu.be/3c-iBn73dDE |
+| Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers  | 2h 10m | https://youtu.be/fqMOX6JJhGo |
 
