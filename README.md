@@ -20,6 +20,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
 1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
 1. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+1. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -149,4 +150,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 |------------------------------------------------------------------------------------------------|--------|------------------------------|
 | Docker Tutorial for Beginners                                                                  | 2h 46m | https://youtu.be/3c-iBn73dDE |
 | Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers  | 2h 10m | https://youtu.be/fqMOX6JJhGo |
+
+### Design Patterns
+| Resource Name                                     |Duration| Resource                     |
+|---------------------------------------------------|--------|------------------------------|
+| Design Patterns in Plain English                  | 1h 20m | https://youtu.be/NU_1StN5Tkk |
+| 5 Design Patterns Every Engineer Should Know      | 12m    | https://youtu.be/FLmBqI3IKMAo |
+
+
 
