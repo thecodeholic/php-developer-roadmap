@@ -9,18 +9,19 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 1. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
 1. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-1. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-1. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-1. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-1. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
-1. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
-1. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-1. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
-1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-1. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-1. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+1. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
+3. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+4. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+5. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
+6. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
+7. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
+8. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
+9. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+10. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
+11. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
+12. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+13. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+14. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -66,6 +67,9 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
 | PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                 |
+
+### Understanding Composer
+This section is in under development
 
 ### PHP beginner projects
 | Resource Name                                          |Duration| Resource                                     |
