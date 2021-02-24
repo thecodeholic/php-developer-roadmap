@@ -120,13 +120,20 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Laravel PHP Framework Tutorial - Full Course for Beginners | 4h 25m | https://youtu.be/ImtZ5yENzgE |
 | Yii2 PHP Framework - Full Course (Build a YouTube Clone)   | 7h 04m | https://youtu.be/whuIf33v2Ug |
 | Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
-
+| Yii2 Framework course playlist                             |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
 
 ### Build Projects with frameworks
 
 #### Yii2 Framework
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
-| Yii2 E-commerce website - Full Working Process             | 4h 25m | https://youtu.be/eQdDBhQpU9o |
+| Yii2 E-commerce website - Full Working Process             | 16h 30m| https://youtu.be/eQdDBhQpU9o |
 | Build a REST API using Yii2 PHP Framework                  | 1h 25m | https://youtu.be/XyHHMvRt6Cw |
-| Yii2 Framework course                                      |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
+| Vue.js & Yii2 REST API notes app                           | 2h 30m | https://youtu.be/7vrctmDQYW4 |
+
+#### Laravel 
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Laravel E-Commerce                                         | 16h 30m| https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR |
+| Laravel Movie App                                          | 1h 25m | https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4 |
+
