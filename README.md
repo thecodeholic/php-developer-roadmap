@@ -5,23 +5,23 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 
 1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
-1. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 1. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
 1. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-1. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
-3. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-4. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-5. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-6. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
-7. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
-8. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-9. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-10. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
-11. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-12. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-13. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-14. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+1. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>editorsides
+3. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
+4. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+5. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+6. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
+7. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
+8. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
+9. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
+10. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+11. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
+12. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
+13. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+14. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+15. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -36,17 +36,6 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | HTTP Crash Course & Exploration | 38m    | https://youtu.be/iYM2zFP3Zn0                            |
 | MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
 | Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
-
-### Editors/IDEs
-| Resource Name                              |Duration| Resource                                     |
-|--------------------------------------------|--------|----------------------------------------------|
-| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                 |
-| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                 |
-| VS Code SuperHero course                   |        | https://vscodehero.com/                      |
-| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                 |
-| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                 |
-| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                 |
-
 
 ### Basics of HTML/CSS
 | Resource Name                                 |Duration| Resource                                     |
@@ -67,6 +56,16 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
 | PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                 |
+
+### Editors/IDEs
+| Resource Name                              |Duration| Resource                                     |
+|--------------------------------------------|--------|----------------------------------------------|
+| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                 |
+| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                 |
+| VS Code SuperHero course                   |        | https://vscodehero.com/                      |
+| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                 |
+| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                 |
+| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                 |
 
 ### Understanding Composer
 This section is in under development
