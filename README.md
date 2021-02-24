@@ -18,7 +18,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
 1. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
 1. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)
+1. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
 ------
 
 ### How Internet & Websites works
