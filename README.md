@@ -6,22 +6,22 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
-1. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
-1. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-1. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>
-3. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
-4. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-5. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-6. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-7. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
-8. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
-9. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-10. **[Learn Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-11. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
-12. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-13. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-14. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-15. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+3. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
+4. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+5. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>
+6. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
+7. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+8. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+9. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
+10. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
+11. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
+12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
+13. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
+14. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
+15. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+16. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+17. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
