@@ -7,15 +7,14 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-3. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
-4. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-5. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>
-6. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
-7. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
-8. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
-9. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
-10. **[Working with Databases](https://github.com/thecodeholic/php-developer-roadmap#working-with-databases)**
-11. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects-1)**
+3. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
+4. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
+5. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
+6. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>
+7. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
+8. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
+9. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
+10. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
 12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
 13. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
 14. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
@@ -45,6 +44,13 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
 
+### Introduction to Databases
+| Resource Name                                          |Duration| Resource                                     |
+|--------------------------------------------------------|--------|----------------------------------------------|
+| MySQL Tutorial for Beginners [Full Course]             | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
+| SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
+| PHP MySql Tutorial                                     | article| https://www.mysqltutorial.org/php-mysql/     |
+| PHP MySql Tutorial                                     | article| https://www.w3schools.com/php/php_mysql_intro.asp |
 
 ### Version Control System (Git & Github)
 | Resource Name                                 |Duration| Resource                                     |
@@ -93,18 +99,6 @@ This section is in under development
 |--------------------------------------------------------|--------|----------------------------------------------|
 | Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
 | Build Shopping Cart with OOP                           | 37m    | https://youtu.be/1Ip7_hdSqzY                 |
-
-### Working with Databases
-| Resource Name                                          |Duration| Resource                                     |
-|--------------------------------------------------------|--------|----------------------------------------------|
-| MySQL Tutorial for Beginners [Full Course]             | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
-| SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
-| PHP MySql Tutorial                                     | article| https://www.mysqltutorial.org/php-mysql/     |
-| PHP MySql Tutorial                                     | article| https://www.w3schools.com/php/php_mysql_intro.asp |
-
-### Build Projects
-| Resource Name                                          |Duration| Resource                                     |
-|--------------------------------------------------------|--------|----------------------------------------------|
 | Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
 | How To Create A Login System In PHP For Beginners      | 1h 57m | https://youtu.be/gCo6JqGMi30                 |
 
