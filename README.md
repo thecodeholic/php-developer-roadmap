@@ -10,7 +10,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 3. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
 4. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
 5. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-6. **[Mastering in Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#mastering-in-editorsides)**<br>
+6. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
 7. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
 8. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
 9. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
