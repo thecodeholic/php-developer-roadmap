@@ -10,7 +10,6 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 3. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
 4. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
 5. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
-6. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
 7. **[Understanding Composer](https://github.com/thecodeholic/php-developer-roadmap#understanding-composer)**
 8. **[PHP beginner projects](https://github.com/thecodeholic/php-developer-roadmap#php-beginner-projects)**
 9. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
@@ -19,8 +18,9 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 13. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
 14. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
 15. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-16. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-17. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+16. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
+17. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+18. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -62,16 +62,6 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
 | PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                 |
-
-### Editors/IDEs
-| Resource Name                              |Duration| Resource                                     |
-|--------------------------------------------|--------|----------------------------------------------|
-| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                 |
-| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                 |
-| VS Code SuperHero course                   |        | https://vscodehero.com/                      |
-| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                 |
-| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                 |
-| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                 |
 
 ### Understanding Composer
 This section is in under development
@@ -141,6 +131,16 @@ This section is in under development
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
 | Beginner's Guide To The Linux Terminal                     | 42m    | https://youtu.be/s3ii48qYBxA |
+
+### Editors/IDEs
+| Resource Name                              |Duration| Resource                                     |
+|--------------------------------------------|--------|----------------------------------------------|
+| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                 |
+| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                 |
+| VS Code SuperHero course                   |        | https://vscodehero.com/                      |
+| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                 |
+| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                 |
+| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                 |
 
 ### Docker
 | Resource Name                                                                                  |Duration| Resource                     |
