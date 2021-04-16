@@ -6,7 +6,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**<br>
 1. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**<br>
 1. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
-2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+2. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
 3. **[Introduction to Databases](https://github.com/thecodeholic/php-developer-roadmap#introduction-to-databases)**
 4. **[Version Control System (Git & Github)](https://github.com/thecodeholic/php-developer-roadmap#version-control-system-git--github)**
 5. **[Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...](https://github.com/thecodeholic/php-developer-roadmap#getting-familiar-with-php-syntax-functions-dates-json-file-system-curl-etc)**
@@ -44,6 +44,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
+
+### Basics of JavaScript
+| Resource Name                                          |Duration| Resource                     |
+|--------------------------------------------------------|--------|------------------------------|
+| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
+| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
 
 ### Introduction to Databases
 | Resource Name                                          |Duration| Resource                                     |
@@ -107,12 +113,13 @@ This section is in under development
 | Yii2 Framework course playlist                             |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
 
 ### Learn Javascript
-| Resource Name                                          |Duration| Resource                     |
-|--------------------------------------------------------|--------|------------------------------|
-| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
-| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Object Oriented JavaScript                                 | 1h 02m | https://youtu.be/PFmuCDHHpwk |
+| JavaScript DOM Course                                      | 2h 0m  | https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s |
+| Asynchronouse JavaScript                                   | 0h 42m | https://youtu.be/_8gHHBlbziw |
 
-### Build Projects with frameworks
+### Build Projects with existing frameworks
 
 #### Yii2 Framework
 | Resource Name                                              |Duration| Resource                     |
