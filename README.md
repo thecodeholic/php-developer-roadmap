@@ -15,12 +15,13 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 9. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
 10. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
 12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-13. **[Start Exploring Existing Frameworks](https://github.com/thecodeholic/php-developer-roadmap#php-frameworks)**
-14. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
-15. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-16. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
-17. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-18. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+13. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
+14. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+15. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-frameworks)**
+16. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+17. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
+18. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+19. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -97,19 +98,19 @@ This section is in under development
 |--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
 | Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
 
-### Learn Javascript
-| Resource Name                                          |Duration| Resource                     |
-|--------------------------------------------------------|--------|------------------------------|
-| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
-| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
-
-### PHP Frameworks
+### Learn Existing Framework
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
 | Laravel PHP Framework Tutorial - Full Course for Beginners | 4h 25m | https://youtu.be/ImtZ5yENzgE |
 | Yii2 PHP Framework - Full Course (Build a YouTube Clone)   | 7h 04m | https://youtu.be/whuIf33v2Ug |
 | Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
 | Yii2 Framework course playlist                             |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
+
+### Learn Javascript
+| Resource Name                                          |Duration| Resource                     |
+|--------------------------------------------------------|--------|------------------------------|
+| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
+| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
 
 ### Build Projects with frameworks
 
