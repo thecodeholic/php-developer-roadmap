@@ -110,6 +110,7 @@ This section is in under development
 |-------------------------------------------------------------------|--------|------------------------------|
 | What is an API?                                                   |        | https://youtu.be/s7wmiS2mSXY |
 | APIs for Beginners - How to use an API (Full Course / Tutorial)   | 2h 19m | https://youtu.be/GZvSYJDk-us |
+| Build PHP REST API From Scratch                                   | 1h 16m | https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo |
 
 
 ### Learn Existing Framework
