@@ -15,13 +15,14 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 9. **[Object Oriented PHP](https://github.com/thecodeholic/php-developer-roadmap#object-oriented-php)**
 10. **[Build Projects](https://github.com/thecodeholic/php-developer-roadmap#build-projects)**
 12. **[Build custom MVC Framework](https://github.com/thecodeholic/php-developer-roadmap#build-custom-mvc-framework)**
-13. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
-14. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-15. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
-16. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-17. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
-18. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-19. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+13. **[What is API](https://github.com/thecodeholic/php-developer-roadmap#what-is-api)**
+14. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
+15. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
+16. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
+17. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+18. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
+19. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+20. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -103,6 +104,13 @@ This section is in under development
 | Resource Name                                          |Duration| Resource                                                                            |
 |--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
 | Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
+
+### What is API
+| Resource Name                                                     |Duration| Resource                     |
+|-------------------------------------------------------------------|--------|------------------------------|
+| What is an API?                                                   |        | https://youtu.be/s7wmiS2mSXY |
+| APIs for Beginners - How to use an API (Full Course / Tutorial)   | 2h 19m | https://youtu.be/GZvSYJDk-us |
+
 
 ### Learn Existing Framework
 | Resource Name                                              |Duration| Resource                     |
