@@ -18,11 +18,12 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 13. **[What is API](https://github.com/thecodeholic/php-developer-roadmap#what-is-api)**
 14. **[Learn Existing Framework](https://github.com/thecodeholic/php-developer-roadmap#learn-existing-framework)**
 15. **[Learn JavaScript](https://github.com/thecodeholic/php-developer-roadmap#learn-javascript)**
-16. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
-17. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
-18. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
-19. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
-20. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+16. **[Basics of JavaScript Frameworks](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript-frameworks)**
+17. **[Build Projects with existing frameworks](https://github.com/thecodeholic/php-developer-roadmap#build-projects-with-existing-frameworks)**
+18. **[Get Familiar with Terminal](https://github.com/thecodeholic/php-developer-roadmap#get-familiar-with-terminal)**
+19. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**<br>
+20. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
+21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
 ### How Internet & Websites works
@@ -127,6 +128,14 @@ This section is in under development
 | Object Oriented JavaScript                                 | 1h 02m | https://youtu.be/PFmuCDHHpwk |
 | JavaScript DOM Course                                      | 2h 0m  | https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s |
 | Asynchronouse JavaScript                                   | 0h 42m | https://youtu.be/_8gHHBlbziw |
+
+### Basics of JavaScript Frameworks
+| Resource Name                                              |Duration| Resource                     |
+|------------------------------------------------------------|--------|------------------------------|
+| Angular Crash Course                                       | 1h 24m | https://youtu.be/Fdf5aTYRW0E |
+| React Crash Course                                         | 1h 48m | https://youtu.be/w7ejDZ8SWv8 |
+| Vue Crash Course                                           | 1h 50m | https://youtu.be/qZXt1Aom3Cs |
+
 
 ### Build Projects with existing frameworks
 
