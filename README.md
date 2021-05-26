@@ -68,11 +68,10 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 | Git & GitHub Crash Course For Beginners       | 32m    | https://youtu.be/SWYqp7iY_Tc                 |
 
 ### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
-| Resource Name                                          |Duration| Resource                                     |
-|--------------------------------------------------------|--------|----------------------------------------------|
-| PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU  
-| Learn PHP The Right Way - Full PHP Tutorial For        | 9h 14m | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
-  Beginners & Advanced
+| Resource Name                                                         |Duration| Resource                                                                 |
+|-----------------------------------------------------------------------|--------|--------------------------------------------------------------------------|
+| PHP Tutorial for Absolute Beginners - PHP Course 2021                 | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                                             |
+| Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced  | 9h 14m | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
 
 ### Understanding Composer
 This section is in under development
