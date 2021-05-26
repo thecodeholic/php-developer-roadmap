@@ -70,7 +70,9 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 ### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
 | Resource Name                                          |Duration| Resource                                     |
 |--------------------------------------------------------|--------|----------------------------------------------|
-| PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                 |
+| PHP Tutorial for Absolute Beginners - PHP Course 2021  | 5h 5m  | https://youtu.be/yXzWfZ4N4xU  
+| Learn PHP The Right Way - Full PHP Tutorial For        | 9h 14m | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
+  Beginners & Advanced
 
 ### Understanding Composer
 This section is in under development
