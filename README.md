@@ -42,6 +42,7 @@ This is PHP Developer Roadmap. Following this path will guarantee to become a go
 ### Basics of HTML/CSS
 | Resource Name                                 |Duration| Resource                                     |
 |-----------------------------------------------|--------|----------------------------------------------|
+| HTML Tutorial for Beginners                   | 1h     | https://youtu.be/qz0aGYrrlhU                 |
 | HTML Crash Course For Absolute Beginners      | 1h     | https://youtu.be/UB1O30fR-EE                 |
 | HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
