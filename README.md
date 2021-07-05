@@ -1,5 +1,10 @@
 # PHP Developer roadmap
-This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer
+This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
+The repository is created when working on the following YouTube video [PHP Developer roadmap - How to Become a PHP Developer in 2021](https://youtu.be/r9ndOH0tyfA).
+
+**Really appreciate if you like and share the video and if you find my content useful click on**
+
+[<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png">](https://bit.ly/2xTQOI0)
 
 ## Table of Contents
 
