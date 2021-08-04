@@ -180,6 +180,7 @@ This section is in under development
 |------------------------------------------------------------------------------------------------|--------|------------------------------|
 | Docker Tutorial for Beginners                                                                  | 2h 46m | https://youtu.be/3c-iBn73dDE |
 | Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers  | 2h 10m | https://youtu.be/fqMOX6JJhGo |
+| How to Create PHP Development Environments with Docker Compose                                 | 31m    | https://youtu.be/l0jb-N5H52A |
 
 ### Design Patterns
 | Resource Name                                     |Duration| Resource                     |
