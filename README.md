@@ -4,7 +4,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 
 **Really appreciate if you like and share the video and if you find my content useful click on**
 
-[<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png">](https://bit.ly/2xTQOI0)
+[<img src="https://pngimg.com/uploads/subscribe/subscribe_PNG46.png" width="300">](https://bit.ly/2xTQOI0)
 
 ## Table of Contents
 
