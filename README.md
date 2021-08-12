@@ -32,10 +32,11 @@ The repository is created when working on the following YouTube video [PHP Devel
 ------
 
 ### How Internet & Websites works
-| Resource Name                         |Duration| Resource                                                |
-|---------------------------------------|--------|---------------------------------------------------------|
-| How does the INTERNET work?           | 9m     | https://youtu.be/x3c1ih2NJEg                            |
-| How The Web Works - The Big Picture   | 12m    | https://youtu.be/hJHvdBlSxug                            |
+| Resource Name                             |Duration| Resource                                                |
+|-------------------------------------------|--------|---------------------------------------------------------|
+| How does the INTERNET work?               | 9m     | https://youtu.be/x3c1ih2NJEg                            |
+| How The Web Works - The Big Picture       | 12m    | https://youtu.be/hJHvdBlSxug                            |
+| How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
 | Resource Name                   |Duration| Resource                                                |
