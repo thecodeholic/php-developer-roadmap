@@ -126,6 +126,7 @@ This section is in under development
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
 | Laravel PHP Framework Tutorial - Full Course for Beginners | 4h 25m | https://youtu.be/ImtZ5yENzgE |
+| Laravel PHP Framework Tutorial - Full Course (2020)        | 6h 29m | https://youtu.be/BXiHvgrJfkg |
 | Yii2 PHP Framework - Full Course (Build a YouTube Clone)   | 7h 04m | https://youtu.be/whuIf33v2Ug |
 | Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
 | Yii2 Framework course playlist                             |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
@@ -143,6 +144,7 @@ This section is in under development
 | Angular Crash Course                                       | 1h 24m | https://youtu.be/Fdf5aTYRW0E |
 | React Crash Course                                         | 1h 48m | https://youtu.be/w7ejDZ8SWv8 |
 | Vue Crash Course                                           | 1h 50m | https://youtu.be/qZXt1Aom3Cs |
+| Vue3 Crash Course                                          | 2h 57m | https://youtu.be/ZqgiuPt5QZo |
 
 
 ### Build Projects with existing frameworks
