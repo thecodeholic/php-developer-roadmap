@@ -169,14 +169,15 @@ This section is in under development
 | Beginner's Guide To The Linux Terminal                     | 42m    | https://youtu.be/s3ii48qYBxA |
 
 ### Editors/IDEs
-| Resource Name                              |Duration| Resource                                     |
-|--------------------------------------------|--------|----------------------------------------------|
-| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                 |
-| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                 |
-| VS Code SuperHero course                   |        | https://vscodehero.com/                      |
-| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                 |
-| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                 |
-| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                 |
+| Resource Name                              |Duration| Resource                                                   |
+|--------------------------------------------|--------|------------------------------------------------------------|
+| Visual Studio Code Tutorial for Beginners  | 33m    | https://youtu.be/VqCgcpAypFQ                               |
+| Visual Studio Code Crash Course            | 1h 32m | https://youtu.be/WPqXP_kLzpo                               |
+| VS Code SuperHero course                   |        | https://vscodehero.com/                                    |
+| Top 12 VScode Extensions for PHP           | 17m    | https://youtu.be/v9dWFbiir9Q                               |
+| Introduction to PHPStorm                   | 6m     | https://youtu.be/pP9jw3fgrCU                               |
+| PHPStorm vs VSCode for PHP Development     | 2h 15m | https://youtu.be/O9nIE-40uKk                               |
+| Be Awesome in PHPStorm (Laracasts)         | 1h 30m | https://laracasts.com/series/how-to-be-awesome-in-phpstorm |
 
 ### Docker
 | Resource Name                                                                                  |Duration| Resource                     |
