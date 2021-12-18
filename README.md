@@ -113,6 +113,7 @@ This section is in under development
 | Resource Name                                          |Duration| Resource                                                                            |
 |--------------------------------------------------------|--------|-------------------------------------------------------------------------------------|
 | Build PHP MVC Framework                                | 6h     | https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1 |
+| Create your own PHP Framework                          | N/A    | https://symfony.com/doc/current/create_framework/index.html |
 
 ### What is API
 | Resource Name                                                     |Duration| Resource                     |
@@ -191,6 +192,21 @@ This section is in under development
 |---------------------------------------------------|--------|------------------------------|
 | Design Patterns in Plain English                  | 1h 20m | https://youtu.be/NU_1StN5Tkk |
 | 5 Design Patterns Every Engineer Should Know      | 12m    | https://youtu.be/FLmBqI3IKMAo |
+| Design Patterns in PHP                            | N/A    | https://designpatternsphp.readthedocs.io/en/latest/README.html |
+| SOLID principles                                  | N/A    | https://www.cleancode.studio/series/solid-principles |
+| The No-Framework Tutorial                         | N/A    | https://github.com/PatrickLouys/no-framework-tutorial |
+
+### Best Practices
+| Resource Name                                     |Duration| Resource                     |
+|---------------------------------------------------|--------|------------------------------|
+| PHP the Right Way                                 | N/A    | https://phptherightway.com/  |
+| Building Secure PHP Software                      | N/A    | https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software |
+| PHP Best Practices                                | N/A    | https://phpbestpractices.org/ |
+
+### TDD
+| Resource Name                                     |Duration| Resource                     |
+|---------------------------------------------------|--------|------------------------------|
+| Test-Driven Laravel                               | 1h 20m | https://www.youtube.com/watch?v=MdApmmK71WM&t=2006s |
 
 
 
