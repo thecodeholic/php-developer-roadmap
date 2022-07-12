@@ -83,7 +83,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### Understanding Composer
 | Resource Name                                                         |Duration| Resource                                                                 |
 |-----------------------------------------------------------------------|--------|--------------------------------------------------------------------------|
-| Introducation to Composer - How to use Composer For Beginners         | 10m 39s  | https://www.youtube.com/watch?v=I6wm15OWyqg                                        |
+| Introduction to Composer - How to use Composer For Beginners         | 10m 39s  | https://www.youtube.com/watch?v=I6wm15OWyqg                                        |
 |                                                                                                                                                           |
 
 ### PHP beginner projects
