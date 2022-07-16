@@ -162,7 +162,7 @@ This section is in under development
 |------------------------------------------------------------|--------|------------------------------|
 | Laravel E-Commerce                                         | 16h 30m| https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR |
 | Laravel Movie App                                          | 1h 25m | https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4 |
-
+| a lot of great videos from Laraveller                      | collection| https://www.youtube.com/c/Laraveller/videos
 
 ### Get Familiar with Terminal
 | Resource Name                                              |Duration| Resource                     |
