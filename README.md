@@ -81,7 +81,10 @@ The repository is created when working on the following YouTube video [PHP Devel
 | Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced  | 9h 14m | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
 
 ### Understanding Composer
-This section is in under development
+| Resource Name                                                         |Duration| Resource                                                                 |
+|-----------------------------------------------------------------------|--------|--------------------------------------------------------------------------|
+| Introduction to Composer - How to use Composer For Beginners         | 10m 39s  | https://www.youtube.com/watch?v=I6wm15OWyqg                                        |
+|                                                                                                                                                           |
 
 ### PHP beginner projects
 | Resource Name                                          |Duration| Resource                                     |
