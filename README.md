@@ -55,10 +55,11 @@ The repository is created when working on the following YouTube video [PHP Devel
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
 
 ### Basics of JavaScript
-| Resource Name                                          |Duration| Resource                     |
-|--------------------------------------------------------|--------|------------------------------|
-| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c |
-| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg |
+| Resource Name                                          |Duration| Resource                                   |
+|--------------------------------------------------------|--------|--------------------------------------------|
+| Javascript Crash Course for beginners                  | 1h 40m | https://youtu.be/hdI2bqOjy3c               |
+| Learn JavaScript - Full Course for Beginners           | 3h 26m | https://youtu.be/PkZNo7MFNFg               |
+| Learn JavaScript in Detail                             | article| https://www.scaler.com/topics/javascript/  |
 
 ### Introduction to Databases
 | Resource Name                                          |Duration| Resource                                     |
