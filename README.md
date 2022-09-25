@@ -146,11 +146,11 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### Basics of JavaScript Frameworks
 | Resource Name                                              |Duration| Resource                     |
 |------------------------------------------------------------|--------|------------------------------|
-| Angular Crash Course                                       | 1h 24m | https://youtu.be/Fdf5aTYRW0E |
+| Angular Crash Course                                       | 2h 02m | https://youtu.be/3dHNOWTI7H8 |
 | React Crash Course                                         | 1h 48m | https://youtu.be/w7ejDZ8SWv8 |
 | Vue Crash Course                                           | 1h 50m | https://youtu.be/qZXt1Aom3Cs |
 | Vue3 Crash Course                                          | 2h 57m | https://youtu.be/ZqgiuPt5QZo |
-
+| Svelte Crash Course                                        | 1h 21m | https://youtu.be/3TVy6GdtNuQ |
 
 ### Build Projects with existing frameworks
 
