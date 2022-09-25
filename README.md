@@ -131,6 +131,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 |------------------------------------------------------------|--------|------------------------------|
 | Laravel PHP Framework Tutorial - Full Course for Beginners | 4h 25m | https://youtu.be/ImtZ5yENzgE |
 | Laravel PHP Framework Tutorial - Full Course (2020)        | 6h 29m | https://youtu.be/BXiHvgrJfkg |
+| Laravel 9 From Scratch  - Traversy Media (2022)            | 4h 18m | https://youtu.be/MYyJ4PuL4pY |
 | Yii2 PHP Framework - Full Course (Build a YouTube Clone)   | 7h 04m | https://youtu.be/whuIf33v2Ug |
 | Symfony PHP Framework Tutorial - Full Course               | 3h 28m | https://youtu.be/Bo0guUbL5uo |
 | Yii2 Framework course playlist                             |        | https://www.youtube.com/watch?v=JD5Y-lQNrPs&list=PLLQuc_7jk__V3jQ0Xr4Rho2lSDztspOt9 |
