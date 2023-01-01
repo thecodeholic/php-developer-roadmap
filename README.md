@@ -31,6 +31,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 22. **[Best Practices](https://github.com/thecodeholic/php-developer-roadmap#best-practices)**
 23. **[TDD](https://github.com/thecodeholic/php-developer-roadmap#tdd)**
+24. **[Profiling with XDebug](https://github.com/thecodeholic/php-developer-roadmap#profiling-with-xdebug)**
 ------
 
 ### How Internet & Websites works
@@ -213,3 +214,12 @@ The repository is created when working on the following YouTube video [PHP Devel
 | Resource Name                                     |Duration| Resource                     |
 |---------------------------------------------------|--------|------------------------------|
 | Test-Driven Laravel                               | 1h 20m | https://www.youtube.com/watch?v=MdApmmK71WM&t=2006s |
+
+### Profiling with XDebug
+| Resource Name                                     |Duration| Resource                     |
+|---------------------------------------------------|--------|------------------------------|
+| Xdebug article                                | N/A | https://xdebug.org/docs/profiler |
+| Xdebug 3: Modes                               | 4m | https://www.youtube.com/watch?v=HF61HJHEYMk |
+| Xdebug 3 Profiling: 1. Setting Up             | 5m | https://www.youtube.com/watch?v=ttQgLBSpVvc |
+| Xdebug 3 Profiling: 2. KCachegrind tour       | 6m | https://www.youtube.com/watch?v=h-0HpCblt3A |
+| Xdebug 3 Profiling: 3. Analysing Data         | 9m | https://www.youtube.com/watch?v=iH-hDOuQfcY |
