@@ -29,6 +29,8 @@ The repository is created when working on the following YouTube video [PHP Devel
 19. **[Editors/IDEs](https://github.com/thecodeholic/php-developer-roadmap#editorsides)**
 20. **[Docker](https://github.com/thecodeholic/php-developer-roadmap#docker)**
 21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
+22. **[Best Practices](https://github.com/thecodeholic/php-developer-roadmap#best-practices)**
+23. **[TDD](https://github.com/thecodeholic/php-developer-roadmap#tdd)**
 ------
 
 ### How Internet & Websites works
