@@ -65,6 +65,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 |--------------------------------------------------------|--------|----------------------------------------------|
 | MySQL Tutorial for Beginners [Full Course]             | 3h 10m | https://youtu.be/7S_tz1z_5bA                 |
 | SQL Tutorial - Full Database Course for Beginners      | 4h 20m | https://youtu.be/HXV3zeQKqGY                 |
+| SQL Tutorial                                           | article| https://www.scaler.com/topics/sql/           |
 | PHP MySql Tutorial                                     | article| https://www.mysqltutorial.org/php-mysql/     |
 | PHP MySql Tutorial                                     | article| https://www.w3schools.com/php/php_mysql_intro.asp |
 
