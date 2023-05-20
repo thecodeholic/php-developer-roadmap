@@ -192,7 +192,11 @@ The repository is created when working on the following YouTube video [PHP Devel
 | Laravel E-Commerce                                         | 16h 30m| https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR |
 | Laravel Movie App                                          | 1h 25m | https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4 |
 | a lot of great videos from Laraveller                      | collection| https://www.youtube.com/@codewithtonyofficial/videos |
-| Laravel Fortify SPA                                        | playlist  | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xBW6JN490-NRj575Vprplv |
+| Laravel Fortify SPA                                        | playlist | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xBW6JN490-NRj575Vprplv |
+| Laravel 10 Full Course in 8 hours using Open AI            | 7h 54m 24s | https://www.youtube.com/watch?v=7-twY6Sd69c |
+| Laravel 10 full course for beginners + InertiaJS           | playlist | https://www.youtube.com/playlist?list=PLe30vg_FG4OTxKekbWLABcpstdeCDA4LQ |
+| Laravel 10 Complete Project (by Kazi Ariyan)               | playlist | https://www.youtube.com/playlist?list=PL8z-YHNIa8wkt_I241bS8jR7QT8ukxEoL |
+| Laravel 10: personal portfolio ; eCommerce ; school management system ; and so on| collection |https://www.youtube.com/@errorsolution-video/playlists |
 
 ### Get Familiar with Terminal
 
