@@ -94,6 +94,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 | PHP Watch files and directories recursively            | 8m     | https://youtu.be/5f4PjQJI-Fc                 |
 | Bulk image resize with PHP                             | 8m     | https://youtu.be/Z99lYtn3quk                 |
 | PHP registration form & validation                     | 30m    | https://youtu.be/V5sJ76T3mWg                 |
+| How To Create A Login System In PHP For Beginners      | 1h 57m | https://youtu.be/gCo6JqGMi30                 |
 
 
 ### Object Oriented PHP
@@ -110,7 +111,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 | Build PHP Form Widget using OOP Abstraction            | 19m    | https://youtu.be/sBP6HKRW0sM                 |
 | Build Shopping Cart with OOP                           | 37m    | https://youtu.be/1Ip7_hdSqzY                 |
 | Create MySql Notes App                                 | 33m    | https://youtu.be/DOsuFRnBqLU                 |
-| How To Create A Login System In PHP For Beginners      | 1h 57m | https://youtu.be/gCo6JqGMi30                 |
+| How To Create A OOP PHP Login System For Beginners     | 1h 9m | https://youtu.be/BaEm2Qv14oU                 |
 
 ### Build custom MVC Framework
 | Resource Name                                          |Duration| Resource                                                                            |
