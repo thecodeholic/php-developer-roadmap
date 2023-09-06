@@ -196,7 +196,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 |---------------------------------------------------|--------|------------------------------|
 | Design Patterns in Plain English                  | 1h 20m | https://youtu.be/NU_1StN5Tkk |
 | 5 Design Patterns Every Engineer Should Know      | 12m    | https://youtu.be/FLmBqI3IKMAo |
-| Design Patterns in PHP                            | N/A    | https://designpatternsphp.readthedocs.io/en/latest/README.html |
+| Design Patterns                                   | N/A    | https://refactoring.guru/design-patterns |
 | SOLID principles                                  | N/A    | https://www.cleancode.studio/series/solid-principles |
 | The No-Framework Tutorial                         | N/A    | https://github.com/PatrickLouys/no-framework-tutorial |
 
